@@ -1,7 +1,7 @@
 # ChatBot
 
 A simple chatbot application built with a **Node.js backend (Express + Axios)** and a **React frontend**.  
-The backend handles authentication with the [ChatEngine API](https://chatengine.io/), while the frontend provides a clean interface for chatting.
+The backend handles authentication with the [ChatEngine API](https://github.com/chatengine-io/react-chat-engine), while the frontend provides a clean interface for chatting.
 
 ---
 
